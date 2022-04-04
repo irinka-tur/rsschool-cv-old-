@@ -45,7 +45,7 @@ Adobe Creative Cloud (Photoshop, Illustrator\/Sketch\, Animate)
 3D max
 
 
->soft skills
+>soft skills*
 
 Adaptability
 
