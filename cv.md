@@ -15,25 +15,59 @@ twitter: [@irintur](https://twitter.com/?lang=ru)
  
 ## **Skills**
 ***
->hard skills*         
+>hard skills* 
+
+       
 CSS/CSS3
+
+
 SASS/SCSS
+
+
 HTML/HTML5
-JS /(jQuery)
-CMS (WordPress\/Joomla)
-PHP|Adaptability
-SQL|Creativity
+
+
+JS (jQuery)
+
+
+CMS (WordPress/Joomla)
+
+
+PHP
+
+
+SQL
+
+
 Adobe Creative Cloud (Photoshop, Illustrator\/Sketch\, Animate)
+
+
 3D max
 
 
 >soft skills
+
+Adaptability
+
+
 not afraid of failure
+
+
 Problem-solving
+
+
 Time management
+
+
 Self-motivation
+
+
 Conflict Resolution
+
+
 Collaboration
+
+Creativity
 
 ## **Education and experience**
 ***
