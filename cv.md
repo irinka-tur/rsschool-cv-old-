@@ -25,6 +25,8 @@ PHP|Adaptability
 SQL|Creativity
 Adobe Creative Cloud (Photoshop, Illustrator\/Sketch\, Animate)
 3D max
+
+
 >soft skills
 not afraid of failure
 Problem-solving
