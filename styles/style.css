@@ -162,15 +162,15 @@ nav {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
   .project1{
-    background-image:url(1p.jpg);
+    background-image:url("1p.jpg");
     background-size:auto;
   }
   .project2{
-    background-image:url(2p.jpg);
+    background-image:url("2p.jpg");
     background-size:auto;
   }
   .project3{
-    background-image:url(3p.jpg);
+    background-image:url("3p.jpg");
     background-size:auto;
   }
   .link1{
